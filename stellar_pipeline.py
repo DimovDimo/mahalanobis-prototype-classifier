@@ -172,7 +172,7 @@ class StellarPipeline:
         plt.title('All-Inclusive Pipeline Performance Accuracy Metric Dashboard', fontsize=13, pad=15)
         plt.xlabel('Classification Accuracy Score')
         plt.ylabel('Evaluated Architectures')
-        plt.xlim(0.0, 1.0)
+        plt.xlim(0.9, 1.0)
         plt.show()
         
     def export_production_artifacts(self, model_filename="best_stellar_ensemble.joblib", scaler_filename="stellar_scaler.joblib"):
