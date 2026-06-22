@@ -38,6 +38,11 @@ This study is pre-registered across five interconnected diagnostic and empirical
 * **Confirmatory Benchmarks:** Strict performance tracking via multi-model leaderboards.
 * **Exploratory Post-Hoc Audit:** Game-theoretic SHAP decompositions mapping the Residual Learning Paradox and machine rounding limits.
 
+## Project Evolution Visualization (Gource)
+A 20-second time-lapse representing the repository's structural growth and commit history.
+
+![Project Timeline Visualization](./Additional%20resources/gource_project_visualization.gif)
+
 ## Visual Synthesis
 A comprehensive cross-disciplinary dashboard merging analytical insights from all 5 research modules.
 
