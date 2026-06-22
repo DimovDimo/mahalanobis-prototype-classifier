@@ -41,7 +41,7 @@ This study is pre-registered across five interconnected diagnostic and empirical
 ## Visual Synthesis
 A comprehensive cross-disciplinary dashboard merging analytical insights from all 5 research modules.
 
-![Visual Synthesis](./Additional%20resources/README-merged-image.png)
+![Visual Synthesis](./Additional%20resources/README-merged-image.jpg)
 
 ---
 *Created as part of the SoftUni Machine Learning Course (May 2026).*
