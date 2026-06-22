@@ -38,5 +38,10 @@ This study is pre-registered across five interconnected diagnostic and empirical
 * **Confirmatory Benchmarks:** Strict performance tracking via multi-model leaderboards.
 * **Exploratory Post-Hoc Audit:** Game-theoretic SHAP decompositions mapping the Residual Learning Paradox and machine rounding limits.
 
+## Visual Synthesis
+A comprehensive cross-disciplinary dashboard merging analytical insights from all 5 research modules.
+
+![Visual Synthesis](./Additional%20resources/README-merged-image.png)
+
 ---
 *Created as part of the SoftUni Machine Learning Course (May 2026).*
