@@ -1,5 +1,8 @@
 # Multi-Disciplinary Machine Learning Limits & Empirical Frameworks
 
+> [!IMPORTANT]
+> **Evaluation Entry Point:** To review and execute this project, please start with the primary hub notebook: **`Start Here.ipynb`**.
+
 ## 1. Study Information
 * **Project Title:** Absolute Boundaries of Statistical Inference and Physics-Informed ML
 * **Principal Investigator:** Dimo Dimov
