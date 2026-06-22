@@ -1,11 +1,11 @@
 # Multi-Disciplinary Machine Learning Limits & Empirical Frameworks
 
 ## 1. Study Information
-> **Project Title:** Absolute Boundaries of Statistical Inference and Physics-Informed ML
-> **Principal Investigator:** Dimo Dimov
-> **Institutional Affiliation:** SoftUni Machine Learning Course (May 2026)
-> **Project Hub Notebook:** `Start Here.ipynb`
-> **Status:** OSF Preregistration Style Documentation
+* **Project Title:** Absolute Boundaries of Statistical Inference and Physics-Informed ML
+* **Principal Investigator:** Dimo Dimov
+* **Institutional Affiliation:** SoftUni Machine Learning Course (May 2026)
+* **Project Hub Notebook:** `Start Here.ipynb`
+* **Status:** OSF Preregistration Style Documentation
 
 ## 2. Design Plan & Methodological Structure
 This study is pre-registered across five interconnected diagnostic and empirical modules:
@@ -37,3 +37,6 @@ This study is pre-registered across five interconnected diagnostic and empirical
 ## 6. Registered Evaluation Criteria
 * **Confirmatory Benchmarks:** Strict performance tracking via multi-model leaderboards.
 * **Exploratory Post-Hoc Audit:** Game-theoretic SHAP decompositions mapping the Residual Learning Paradox and machine rounding limits.
+
+---
+*Created as part of the SoftUni Machine Learning Course (May 2026).*
